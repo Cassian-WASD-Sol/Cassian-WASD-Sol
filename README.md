@@ -1,7 +1,19 @@
 # READ ME
+My 
 "Who controls the past controls the future. Who controls the present controls the past.” — 1984, George Orwell
 <div align="center">
+  
+☾⋆⁺₊  Status Guide ₊⁺⋆☽
 
+| ☁ status | ✧ meaning |
+|----------|-----------|
+| DNIUF | Do not interact unless friend |
+| C + H | Cuddle & hide behind me freely |
+| DNIUID | Do not interact unless I do |
+| SM | Selective mutism episode |
+| RM | Reactive mutism episode |
+
+⋆｡°✩ lavender haze ✩°｡⋆
 [![Click for Pronouns](https://img.shields.io/badge/Click%20for%20Pronouns-WASD-FFD700?style=for-the-badge)](https://pronouns.cc/@WASD)
 
 
