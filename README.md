@@ -12,8 +12,8 @@ My
 | DNIUF | Do not interact unless friend |
 | C + H | Cuddle & hide behind me freely |
 | DNIUID | Do not interact unless I do |
-| SM | Selective mutism episode |
-| RM | Reactive mutism episode |
+| SM | Currently nonverbal |
+| RM | Reactive mutism |
 
 
 
