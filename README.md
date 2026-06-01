@@ -12,7 +12,7 @@
 | DNIUF | Do not interact unless friend |
 | C + H | Cuddle & hide behind me freely |
 | DNIUID | Do not interact unless I do |
-| SM | Currently nonverbal |
+| SM (SELECTIVE MUTISM) | Currently nonverbal |
 
 
 
