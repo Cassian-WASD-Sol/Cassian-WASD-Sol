@@ -13,7 +13,7 @@
 | C + H | Cuddle & hide behind me freely |
 | DNIUID | Do not interact unless I do |
 | SM | Currently nonverbal |
-| RM | Reactive mutism |
+
 
 
 
