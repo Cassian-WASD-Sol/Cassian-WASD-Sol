@@ -4,16 +4,6 @@
 <div align="center">
 
 
-  
-☾⋆⁺₊  Status Guide ₊⁺⋆☽
-
-| ☁ Status | ✧ Meaning |
-|----------|-----------|
-| DNIUF | Do not interact unless friend |
-| C + H | Cuddle & hide behind me freely |
-| DNIUID | Do not interact unless I do |
-| SM (SELECTIVE MUTISM) | Currently nonverbal |
-
 
 
 
